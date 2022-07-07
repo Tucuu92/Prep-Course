@@ -1,0 +1,22 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+ * Variables
+
+ Una variable es una etiqueta que hace referencia a un valor dentro del codigo de programacion
+
+ * Strings
+
+ Un string no necesariamente es una palabra, es simplemente una encadenacion de caracteres, ya sean numero letras o simbolos
+
+
+ * Funciones (argumentos, `return`)
+ 
+ Una funcion es como un subprograma del codigo que puede ser ejecutado dentro del mismo
+
+ * Declaraciones `if`
+
+ If se usa para devolver un valor siempre y cuando se cumpla cierta funcion... y si no se cumple, devuelve otro valor
+
+ * Valores booleanos (`true`, `false`)
+
+el valor boleando representa uno de dos posibles valores, true o false
