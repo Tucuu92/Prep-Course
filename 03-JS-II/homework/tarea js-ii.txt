@@ -1,0 +1,30 @@
+# Homework: Javascript II
+
+## Instrucciones
+---
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `for`
+* `&&`, `||`, `!`
+
+2. Desde la carpeta `Prep` en la carpeta donde clonaste el repo, ingresa el comando `npm test JSII.test.js` para correr los tests automatizados. Al principio, todos los tests estarán fallados/rotos. Encontrarás las funciones para hacer pasar los tests en el archivo `homework.js`.
+
+### Aca tendras acceso a las [Soluciones](https://github.com/atralice/Curso.Prep.Henry/blob/solution/03-JS-II/homework/homework.js)
+
+------------------------------------------
+
+Una expresion "for" es un bucle de acciones que nos devuelve el interprete hasta obtener un valor deseado
+
+------------------------------------------
+
+
+Hay 3 operadores Logicos,
+Y (&&)
+O (||)
+y
+NO (!)
+
+que como su nombre lo indica, van a devolver VERDADERO si se cumple la funcion "Y", "O",
+"Y" va a devolver verdadero solo cuando se cumplan ambas expresiones
+"O" va a devolver verdadero cuando se cumpla una u otra expresion, no importa cual
+"NO" simplemente es un negador, va a devolver el valor opuesto de lo que obtenga
